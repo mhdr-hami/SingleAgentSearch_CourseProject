@@ -1,2 +1,4 @@
 # SingleAgentSearch_CourseProject
-In this project, I replicated the "Revisiting Suboptimal Search" paper.
+"Revisiting Suboptimal Search" replicated.
+
+Suboptimal search algorithms refer to a group of algorithms designed to find a solution faster, rather than the optimal solution. In certain practical applications, such as video games, it is often more important to find a solution quickly than to find the optimal solution. Despite their practical usefulness, the implementation of the previously presented algorithms in this area is often challenging due to their dependence on special heuristics or data structures. This paper addresses these challenges by presenting a new framework named Improved Optimistic Search, which simplifies the implementation process and improves the performance compared to previous algorithms. In addition to introducing this framework, we conduct several studies to evaluate different strategies used within the framework. In addition, one other contribution is evaluating different strategies within the framework to further optimize its performance.
